@@ -37,7 +37,7 @@ Since no data is collected, there is nothing to store or leak. Your activity sta
 
 If you have any questions or concerns about this privacy policy, feel free to contact the developer:
 
-**Email**: `yourname@gmail.com` (replace with your real developer contact)
+**Email**: `redcoconet@gamail.com`
 
 ---
 
